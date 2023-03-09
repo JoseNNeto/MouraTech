@@ -1,3 +1,0 @@
-Este projeto é um site OnePage feito para listar todos os Jogos da Copa e seus placares.
-
-12/2022
